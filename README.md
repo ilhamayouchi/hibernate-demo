@@ -6,7 +6,8 @@ Projet Maven démontrant l'utilisation de JPA/Hibernate avec une base de donnée
 
 La sortie console lors de l'exécution du programme 
 
-<img width="434" height="363" alt="image" src="https://github.com/user-attachments/assets/4c5904b6-9549-4cfa-9265-eca32c45c930" />
+<img width="389" height="298" alt="image" src="https://github.com/user-attachments/assets/0f7057ff-5d8f-4d3c-b885-c360bb232e50" />
+
 
 ## Le Console H2
 La console Web H2 permet de visualiser directement la base de données en mémoire. Après avoir lancé `App.java`, on ouvre `http://localhost:8082` dans le navigateur.
